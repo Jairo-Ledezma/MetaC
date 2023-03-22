@@ -1,0 +1,47 @@
+h1 {
+    color:purple;
+}
+
+#header1{
+    color: green; background-color: blue; padding-left: 50%; 
+}
+
+p{
+    color:darkred;
+}
+
+.description{
+    color: blueviolet;
+}
+
+p.test{
+    color: blue;
+}
+
+#blog h1 {
+    color: blue;
+  }
+
+#blog > h1 {
+    color: red;
+  }
+
+  h1:hover{
+    color: black;
+  }
+
+  p { 
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style:wavy;
+    text-decoration-thickness: 1px;
+  }
+  
+  #boxModel{
+    background-color: lightblue;
+    width: 300;
+    border: 5px solid red;
+    padding: 25px;
+    margin: 15px;
+  }
+
