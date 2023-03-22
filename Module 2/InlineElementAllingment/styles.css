@@ -1,0 +1,17 @@
+.son{
+    display: block;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20%;
+    float: right;
+}
+
+.daughter{
+    display: block;
+    width: 50%;
+    margin-top: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+}
+
