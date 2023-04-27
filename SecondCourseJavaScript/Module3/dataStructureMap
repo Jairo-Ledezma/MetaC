@@ -1,0 +1,15 @@
+const games = ['TLOU' , 'RE' , 'Uncharted' , 'Overcooked' , 'Jurassic Park'].map((game , index)=>{
+    if(game.charAt(0).toLowerCase()=='t' || game.charAt(0).toLowerCase()=='o'){
+        return game;
+    }
+})
+console.log(games)
+
+
+
+
+const numArray = [0,10,20,30,40,50].map( function(num) {
+    return num / 10
+})
+
+console.log(numArray)
