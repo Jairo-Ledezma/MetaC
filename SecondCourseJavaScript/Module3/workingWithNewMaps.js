@@ -33,3 +33,5 @@ bestGames.forEach( value=> {
 })
 
 console.log(newTop);
+
+console.log(newTop.get(1));
